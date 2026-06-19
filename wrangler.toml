@@ -1,0 +1,8 @@
+name = "treylegz-tts"
+main = "treylegz-tts-worker.js"
+compatibility_date = "2025-06-01"
+
+# Workers AI binding — gives the Worker env.AI (used by MeloTTS).
+# Declaring it here means you do NOT have to add the binding by hand in the dashboard.
+[ai]
+binding = "AI"
