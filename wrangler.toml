@@ -1,4 +1,4 @@
-name = "treylegz-tts"
+name = "treylegz-tts2"
 main = "treylegz-tts-worker.js"
 compatibility_date = "2025-06-01"
 
